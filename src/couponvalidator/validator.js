@@ -1,5 +1,5 @@
 import React from 'react'
-const validatorurl = "http://localhost:5300/validate"
+const validatorurl = "https://month8test.herokuapp.com/validate"
 
 class Validator extends React.Component{
     constructor(){
